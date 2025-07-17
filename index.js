@@ -1,3 +1,1 @@
 console.log('hello world')
-console.log('hello world 2')
-console.log('hi 1')
